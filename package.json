@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "jest --watchAll"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0",
+    "nodemon": "^2.0.16"
+  }
+}
